@@ -5,3 +5,24 @@
 Задача: построить модель такого предсказания.
 
 Цель: значение метрики RMSE на тестовой выборке должно быть не больше 48.
+## Какой стек использовался?
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+statsmodels
+
+sklearn
+
+catboost
+## Какие модели сравнивались?
+
+LinearRegression
+
+RandomForestRegressor
+
+CatBoostRegressor
