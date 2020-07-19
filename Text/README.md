@@ -10,12 +10,14 @@ numpy
 
 spacy
 
-sklearn
-
-LogisticRegression
-
-catboost
+sklear
 
 nltk
 
 re
+## Какие модели сравнивались?
+LogisticRegression
+
+RandomForestClassifier
+
+CatBoostClassifier
