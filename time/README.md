@@ -12,8 +12,6 @@ numpy
 
 matplotlib
 
-seaborn
-
 statsmodels
 
 sklearn
