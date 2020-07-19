@@ -6,11 +6,13 @@
 
 Дополнительно: измерять AUC-ROC, сравнить её значение с F1-мерой.
 ## Какой стек использовался?
--NumPy
--панд
--Matplotlib
--sklearn
+### numpy
+### pandas
+###  matplotlib
+###  sciearn
 ## Какие модели сравнивались?
 Логистическая регрессия
+
 DecisionTreeClassifier
+
 RandomForestClassifier
