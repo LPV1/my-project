@@ -22,4 +22,4 @@ lightgbm
 
 RandomForestRegressor
 
-LGBMRegressor
+CatBoostRegressor
